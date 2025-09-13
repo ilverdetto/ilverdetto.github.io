@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: Benvenuto
 ---
 
-# Benvenuto nel mio sito!
+# Ciao! 👋
 
-Questo è il mio primo sito con GitHub Pages e Jekyll.
+Benvenuto nel mio sito creato con **Jekyll** e **GitHub Pages**, interamente dal browser!
